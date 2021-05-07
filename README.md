@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chetanniradwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="chetanniradwar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12696186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="12696186" height="30" width="40" /></a>
-<a href="https://fb.com/100006288557848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="100006288557848" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishniradwar/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishniradwar/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chetanniradwar" target="blank"><img align="center" src="https://github.com/chetannirdwar/chetannirdwar/blob/a0bab6485487212d3ccf63e29955f51f8ea5d384/social%20media%20svg/iconfinder_social-11_5869369.svg" alt="chetanniradwar"fill : #0A66C2 height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12696186" target="blank"><img align="center" src="https://github.com/chetannirdwar/chetannirdwar/blob/85262c7ebf1bc0f991dc1d64897c0bbdf12732c8/social%20media%20svg/iconfinder_318_Stack_Overflow_logo_4375093.svg" alt="12696186" height="30" width="40" /></a>
+<a href="https://fb.com/100006288557848" target="blank"><img align="center" src="https://github.com/chetannirdwar/chetannirdwar/blob/a0bab6485487212d3ccf63e29955f51f8ea5d384/social%20media%20svg/iconfinder_1_Facebook_colored_svg_copy_5296499.svg" alt="100006288557848" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashishniradwar/profile" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishniradwar/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
