@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="center">I am a passionate web developement fresher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetannirdwar&label=Profile%20views&color=0e75b6&style=flat" alt="chetannirdwar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanniradwar&label=Profile%20views&color=0e75b6&style=flat" alt="chetanniradwar" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chetanniradwar" target="blank"><img align="center" src="https://github.com/chetanniradwar/chetanniradwar/blob/a0bab6485487212d3ccf63e29955f51f8ea5d384/social%20media%20svg/iconfinder_social-11_5869369.svg" alt="chetanniradwar"fill : #0A66C2 height="30" width="40" /></a>
